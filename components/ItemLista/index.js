@@ -4,16 +4,17 @@ import estilo from './estilo';
 
 export default function ItemLista(props) {
   return (
-    <View style={estilo.boxSigno}>
+    <View style={estilo.boxTime}>
 
       <Image
         source={{ uri: props.imagem }}
-        style={estilo.imagem}
+        style={estilo.imagemTime}
+        resizeMode="contain"
       />
 
-      <View>
-        <Text style={estilo.nomeSigno}>
-          {props.signo}
+      <View style={{ flex: 1 }}>
+        <Text style={estilo.nomeTime}>
+          {props.nomeTime}
         </Text>
 
         <Text>
@@ -22,5 +23,5 @@ export default function ItemLista(props) {
       </View>
 
     </View>
-  )
+  );
 }

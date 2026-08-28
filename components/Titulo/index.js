@@ -4,10 +4,10 @@ import estilo from './estilo';
 
 export default function Titulo() {
   return (
-    <View style={estilo.box}>
-      <Text style={estilo.texto}>Infos de time
-        
+    <View style={estilo.caixaTitulo}>
+      <Text style={estilo.textoTitulo}>
+        Lista de Times
       </Text>
     </View>
-  )
+  );
 }
