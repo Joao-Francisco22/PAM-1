@@ -7,7 +7,7 @@ const estilo = StyleSheet.create({
     paddingTop: 80,
     paddingHorizontal: 16,
     paddingBottom: 32,
-    backgroundColor: '#eaf5f1'
+    backgroundColor: '#9ce4e0'
   },
 
 
@@ -19,11 +19,14 @@ const estilo = StyleSheet.create({
   titulo: {
     width: '100%',
     paddingVertical: 20,
-    backgroundColor: '#9de3d8',
-    color: '#102a43',
+    backgroundColor: '#a9e39d',
+    color: '#1a4310',
     textAlign: 'center',
     fontSize: 38,
-    fontWeight: 'bold'
+    fontWeight: 'bold',
+    borderRadius: 60,
+    bordercolor: 'black',
+    borderWidth: 2
   },
 
 
@@ -34,7 +37,9 @@ const estilo = StyleSheet.create({
     backgroundColor: '#d9f3ed',
     borderRadius: 20,
     color: '#102a43',
-    fontWeight: 'bold'
+    fontWeight: 'bold',
+    bordercolor: 'black',
+    borderWidth: 1
   },
 
 
@@ -49,9 +54,9 @@ const estilo = StyleSheet.create({
     height: 220,
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: '#102a43',
+    backgroundColor: '#1b7046',
     borderWidth: 9,
-    borderColor: '#2cc9b4',
+    borderColor: '#000000',
     borderRadius: 110
   },
 
@@ -73,7 +78,7 @@ const estilo = StyleSheet.create({
 
   ultimoNumero: {
     marginTop: 26,
-    color: '#547085',
+    color: '#9ce4e0',
     fontSize: 15
   },
 
@@ -96,7 +101,7 @@ const estilo = StyleSheet.create({
     padding: 14,
     color: '#18334c',
     borderWidth: 2,
-    borderColor: '#b9d4cf',
+    borderColor: '#0caf91',
     borderRadius: 5,
     textAlign: 'center',
     fontSize: 16
@@ -107,10 +112,11 @@ const estilo = StyleSheet.create({
     marginTop: 10,
     padding: 14,
     alignItems: 'center',
-    backgroundColor: '#9de3d8',
+    backgroundColor: '#17dbc8',
     borderRadius: 5,
     borderBottomWidth: 4,
-    borderBottomColor: '#2cc9b4'
+    borderBottomColor: '#2cc9b4dc',
+  
   },
 
 
@@ -140,7 +146,7 @@ const estilo = StyleSheet.create({
   pontoCard: {
     flex: 1,
     padding: 18,
-    backgroundColor: '#edf8f5',
+    backgroundColor: '#9ad4c5',
     borderLeftWidth: 5,
     borderLeftColor: '#2cc9b4'
   },
