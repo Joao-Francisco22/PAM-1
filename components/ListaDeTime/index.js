@@ -9,7 +9,7 @@ const times = [
     nomeTime: 'Corinthians',
     dataFundacao: '01/09/1910',
     numTitulos: '55',
-    imagem: 'https://commons.wikimedia.org/wiki/Special:Redirect/file/SC_Corinthians.svg?width=200'
+    imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQabvBOzGI9NWRAbT58qUouyUCF09-3jBtW-xx8HpgtCw&s'
   },
   {
     nomeTime: 'Flamengo',
@@ -27,7 +27,7 @@ const times = [
     nomeTime: 'São Paulo',
     dataFundacao: '25/01/1930',
     numTitulos: '41',
-    imagem: 'https://commons.wikimedia.org/wiki/Special:Redirect/file/São_Paulo_FC_logo.svg?width=200'
+    imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-tvSZt2kQl_zUYqQ9Ld0mjsv2Xd5Ahm0YVIWyr5tLzA&s'
   },
   {
     nomeTime: 'Santos',
@@ -51,13 +51,13 @@ const times = [
     nomeTime: 'Milan',
     dataFundacao: '16/12/1899',
     numTitulos: '50',
-    imagem: 'https://commons.wikimedia.org/wiki/Special:Redirect/file/AC_Milan_logo.svg?width=200'
+    imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi8vUKYA9UttFQYw5V3BauRMMXmLn30mJbJFq5VKgbgQ&s=10'
   },
   {
     nomeTime: 'Juventus',
     dataFundacao: '01/11/1897',
     numTitulos: '70',
-    imagem: 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Juventus_Logo.svg?width=200'
+    imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDhYPipUPazIrurJb6OCny1gs5W9RAcLTM3eTvziKx_w&s=10'
   },
   {
     nomeTime: 'Inter de Milão',
@@ -69,13 +69,13 @@ const times = [
     nomeTime: 'Barcelona',
     dataFundacao: '29/11/1899',
     numTitulos: '128',
-    imagem: 'https://commons.wikimedia.org/wiki/Special:Redirect/file/FC_Barcelona_(crest).svg?width=200'
+    imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJvGaQNfOdZnYTW2wVtnrvfJb7m7RyAVYbxrCnm3P-gA&s=10'
   },
   {
     nomeTime: 'Liverpool',
     dataFundacao: '03/06/1892',
     numTitulos: '68',
-    imagem: 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Liverpool_FC.svg?width=200'
+    imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xi3TIr8Lm38d9TVG90vONeQobDIoUZYTKYhCqv7MsQ&s=10'
   },
 ];
 

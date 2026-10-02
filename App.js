@@ -1,11 +1,8 @@
 import React from 'react';
-import ListaDeSignos from './components/ListaDeSignos';
-import ListaDeSignosAuto from './components/ListaDeSignosAuto';
+import ListaDeTime from './components/ListaDeTime';
 
 export default function App() {
   return (
-
-    <ListaDeSignos />
-
+    <ListaDeTime />
   );
 }
